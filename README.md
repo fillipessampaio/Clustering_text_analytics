@@ -1,6 +1,6 @@
 <h1 align="center"> LEGAL TEXT LABELING </h1> 
 
-<img align="center"  height="450" width="1000" src="https://github.com/fillipessampaio/Clustering_text_analytics/blob/main/img_legal_text_labeling.jpeg?raw=true" >
+<img align="center" src="https://github.com/fillipessampaio/Clustering_text_analytics/blob/main/img_legal_text_labeling.jpeg?raw=true" >
 
 ## 1. Assess situation
 
@@ -20,7 +20,7 @@ from the National Electronic Justice Gazette one of the following categories: (1
 <p> Improvement of management tools;</p>
 <p> Saving many hours of human labor.</p>
 
-## 5. References
+## 4. References
   
 - [Notebook](https://github.com/fillipessampaio/Clustering_text_analytics/blob/main/notebooks/text_analytics.ipynb) 
 
