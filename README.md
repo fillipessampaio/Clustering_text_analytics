@@ -1,6 +1,3 @@
-# Clustering_text_analytics
-This repository contains a data science project aimed at collect, treat, group, classify and analyze documents.
-
 <h1 align="center"> LEGAL TEXT LABELING </h1> 
 
 <img align="center"  height="450" width="1000" src="https://github.com/fillipessampaio/Clustering_text_analytics/blob/main/img_legal_text_labeling.jpeg?raw=true" >
